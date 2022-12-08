@@ -28,6 +28,6 @@ Convert a list of Chinese names into English Pinyin, and also separate the names
 
 Calling APIs of various data sources
 
-### [re3data.org](https://github.com/tsunamizou/Data/blob/main/data_cleansing/re3data.ipynb)
+### [re3data.org](https://github.com/tsunamizou/Data/blob/main/apis/re3data.ipynb)
 
 Re3data is a global registry of research data repositories that covers research data repositories from different academic disciplines.
