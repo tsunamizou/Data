@@ -22,6 +22,10 @@ Processing the data into what we need for further analysis
 
 Convert a list of Chinese names into English Pinyin, and also separate the names into first names and last names
 
+### [Generate clean aff field](https://github.com/tsunamizou/Data/tree/main/data_cleansing/clean_aff)
+
+Extract the clean name of top 1000 institutes from the free text field "aff", the field and name list can be replaced for other purposes.
+
 ------
 
 ## [APIs](https://github.com/tsunamizou/Data/tree/main/apis) 
