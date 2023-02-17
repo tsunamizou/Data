@@ -35,3 +35,8 @@ Calling APIs of various data sources
 ### [re3data.org](https://github.com/tsunamizou/Data/blob/main/APIs/re3data.ipynb)
 
 Re3data is a global registry of research data repositories that covers research data repositories from different academic disciplines.
+
+### [ror.org](https://github.com/tsunamizou/Data/blob/main/APIs/ror_api.ipynb)
+
+ROR is the first and only organization identifier that is openly available. It is the default identifier supported in Crossref DOI metadata, DataCite DOI metadata, and ORCID.
+
